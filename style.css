@@ -1,0 +1,30 @@
+body{
+    background-image:url(./pexels-cesar-perez-733745.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: cursive;
+    color: beige;
+}
+
+.navbar-nav{
+    justify-content: space-around;
+}
+
+.container{
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.buttons{
+    padding: 20px;
+    text-decoration: none;
+}
+
+.signupButton, .loginButton{
+    padding: 20px;
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+}
